@@ -22,7 +22,7 @@ Developed by: Gokul C
 RegisterNumber: 212223240040
 */
 ```
-import pandas as pd
+import pandas as pd\n
 import numpy as np
 import matplotlib.pyplot as plt
 df=pd.read_csv('/content/Untitled spreadsheet - Sheet1 (1).csv')
