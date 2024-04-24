@@ -24,7 +24,7 @@ To write a program to predict the marks scored by a student using the simple lin
 Program to implement the simple linear regression model for predicting the marks scored.
 Developed by: Gokul C
 RegisterNumber: 212223240040
-
+*/
 import pandas as pd
 
 import numpy as np
@@ -69,15 +69,19 @@ plt.ylabel('y')
 
 plt.plot(x_train,lr.predict(x_train),color='red')
 
-*/
 ```
 
 ## Output:
 ![simple linear regression model for predicting the marks scored](sam.png)
+
 ![Screenshot 2024-02-23 105650](https://github.com/Gokul1410/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/153058321/6b57ba1a-2777-44ad-a597-cbec2f013813)
+
 ![Screenshot 2024-02-23 105828](https://github.com/Gokul1410/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/153058321/3e1c0586-cb48-47c6-a1d0-9fc7714a5124)
+
 ![Screenshot 2024-02-23 105923](https://github.com/Gokul1410/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/153058321/e1f1fb74-78df-4926-a6e6-4dd3b8885b82)
+
 ![Screenshot 2024-02-23 110008](https://github.com/Gokul1410/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/153058321/f4a70f6f-d09e-47ca-896f-28f71feab996)
+
 ![Screenshot 2024-02-23 102341](https://github.com/Gokul1410/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/153058321/d6b243d8-7564-4764-bccf-8980341eabbb)
 
 
